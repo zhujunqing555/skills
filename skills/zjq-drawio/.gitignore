@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+local.config.json
+.zjq-drawio/
+evidence/
+profiles/
+working-copies/
+demo-output/
+launcher-logs/
+connection.json

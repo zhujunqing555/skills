@@ -94,3 +94,7 @@ The markdown content below contains the instructions, examples, and guidelines t
 Skills are a great way to teach Claude how to get better at using specific pieces of software. As we see awesome example skills from partners, we may highlight some of them here:
 
 - **Notion** - [Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)
+
+# ZJQ draw.io extensions
+
+本分支新增两个中文技能：[ZJQ_draw.io](skills/zjq-drawio/SKILL.md)（可编辑科研绘图与桌面连接）和 [ZJQ_draw.io_Tools](skills/zjq-drawio-tools/SKILL.md)（文件检查、图片压缩、多页保留与导出）。安装和使用见 [ZJQ_drawio.md](ZJQ_drawio.md)。

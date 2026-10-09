@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZJQ_draw.io_Tools"
+  short_description: "检查兼容性、压缩图片并保留完整多页图纸，生成可核验的新文件"
+  default_prompt: "使用 $zjq-drawio-tools 检查我的 draw.io 文件，按需要压缩图片并保留所有页面和原生对象。"

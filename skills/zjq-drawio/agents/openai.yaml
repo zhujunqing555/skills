@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZJQ_draw.io"
+  short_description: "规划并美化科研流程图，保持独立文字、绑定箭头和完整可编辑性"
+  default_prompt: "使用 $zjq-drawio 读取我的图纸，规划并优化布局，保持研究逻辑和原生可编辑对象。"
